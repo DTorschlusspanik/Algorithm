@@ -201,14 +201,14 @@ int main()
 	insertNode(root, 40);
 	insertNode(root, 20);
 	insertNode(root, 10);
-	insertNode(root, 45);x`
+	insertNode(root, 45);
 	insertNode(root, 19);
 	insertNode(root, 42);
 	insertNode(root, 30);
 
 	LNR(root);
 	
-	x`
+
 
 
 	return 0;
